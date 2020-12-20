@@ -1,0 +1,20 @@
+1. Push rectangle in the stack
+2. Pop rectangle from the stack
+3. Check first element in queue
+4. Insert rectangle to the position
+5. Erase rectangle from the position
+6. Print all figures
+0. Exit
+1
+Enter lenght, width, center = (x,y):
+5
+0 0
+OK
+3
+Head:
+Point A(-5, 0)
+Point B(-2.5, 4.33013)
+Point C(2.5, 4.33013)
+Point D(5, 0)
+Point E(2.5, -4.33013)
+Point F(-2.5, -4.33013)
